@@ -5,7 +5,7 @@ body {
 }
 
 span{
-	font-size: 14px;
+	font-size: 18px;
 	color: #000;
 	transition: 0.3s;
 }
@@ -22,7 +22,7 @@ table {
 }
 
 table tr td:first-child {
-	padding-right: 5px;
+	padding-right: 50px;
 }
 
 a {
@@ -66,18 +66,6 @@ a:hover {
 .intro span.highlight {
 	background-color: #333;
 	color: white;
-}
-
-.intro span.highlight-red {
-	background-color: darkred;
-	color: white;
-	transition: 0.3s;
-}
-
-.intro span.highlight-red:hover {
-	background-color: red;
-	color: white;
-	transition: 0.3s;
 }
 
 @media (max-width: 360px) {
