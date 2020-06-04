@@ -23,15 +23,6 @@ table {
 	border-spacing: 30px;
 }
 
-table tr td:first-child {
-	padding-left: 100px;
-}
-
-table tr td:second-child {
-	padding-left: 150px;
-	margin-bottom: -10px;
-}
-
 a {
 	text-decoration: none;
 	color: #000;
@@ -55,7 +46,7 @@ a:hover {
 }
 
 .content {
-	max-width: 700px;
+	max-width: 600px;
 	margin: 0 auto;
 }
 
