@@ -29,6 +29,7 @@ table tr td:first-child {
 
 table tr td:second-child {
 	padding-left: 150px;
+	margin-bottom: -10px;
 }
 
 a {
