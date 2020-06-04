@@ -1,2 +1,2 @@
 # apaliienko.github.io
-My Portfolio Site
+My Personal Page
