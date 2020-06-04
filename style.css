@@ -22,7 +22,7 @@ table {
 }
 
 table tr td:first-child {
-	padding-right: 50px;
+	padding-left: 50px;
 }
 
 a {
